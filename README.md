@@ -49,3 +49,39 @@ Feel free to connect or reach out for inquiries:
 Made with ❤️ by Karen Padrón. All rights reserved.
 
 ![alt text](image.png)
+
+
+## 📸 Evidencias de la Práctica / Entrega
+
+Por favor, asegúrese de adjuntar las capturas correspondientes debajo de cada apartado:
+
+### 1. Captura del repositorio clonado
+![alt text](image-1.png)
+
+---
+
+### 2. Captura del sitio original
+*Inserte aquí la captura de pantalla de la interfaz web tal y como lucía la plantilla inicial antes de realizar las modificaciones.*
+
+![Sitio Original](ruta_a_tu_imagen/evidencia_2.png)
+
+---
+
+### 3. Captura del sitio personalizado
+![alt text](image-2.png)
+![alt text](image-3.png)
+---
+
+### 4. Captura del archivo README_ESTUDIANTE.md
+![alt text](image-4.png)
+
+
+---
+
+### 5. Captura de comandos Git utilizados
+![alt text](image-5.png)
+---
+
+### 6. URL del repositorio en GitHub
+
+🔗 **Link del Repositorio:** https://github.com/Karen-Anahi-Padron-Martinez/portafolio-profesional-web  
