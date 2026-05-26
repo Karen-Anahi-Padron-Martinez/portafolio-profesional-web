@@ -1,50 +1,51 @@
-# 🌟 Modern Personal Portfolio Website
+# 🌟 Personal Portfolio Website
 
-A clean, beautiful and responsive portfolio website built with HTML, CSS, and JavaScript!
+A clean, beautiful, and responsive portfolio website built with HTML, CSS, and JavaScript, tailored as a professional curriculum showcase.
 
 ## 🚀 Features
 
-- 💡 Light/Dark mode toggle
-- 📱 Fully Responsive
-- 🎨 Modern Design
-- 💥 Animations using AOS library
-- 🔄 Dynamic Type Writing effect
-- 🎭 Multiple sections including About, Skills, Portfolio, and Contact
-- 📊 Skills progress visualization
-- 🖼️ Portfolio showcase with Swiper.js
-- 📝 Contact form
+- 💡 **Light/Dark Mode Toggle:** Easy transition between visual themes.
+- 📱 **Fully Responsive:** Optimized for desktop, tablet, and mobile displays using custom container grids.
+- 🎨 **Modern Tech-Style Design:** Includes an interactive object-literal "About Me" code block visualization.
+- 💥 **Animations:** Smooth scroll animations powered by the AOS (Animate On Scroll) library.
+- 🔄 **Dynamic Text Effect:** A multiplatform typing effect on the home header.
+- 📊 **Visual Multi-Skill Sections:** Categorized dropdown skill sections with animated progress tracking.
+- 🖼️ **Interactive Portfolio Carousel:** Recent works displayed seamlessly using Swiper.js.
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Swiper.js - Modern mobile touch slider
-- AOS - Animate On Scroll Library
-- Unicons - Beautiful icons
+- **HTML5 & CSS3** (Custom properties & grid layout)
+- **W3.CSS** (Core utilities optimization)
+- **JavaScript (ES6+)**
+- **Swiper.js** - Modern mobile touch slider
+- **AOS** - Animate On Scroll Library
+- **Unicons** - Vector line icons library
 
 ## 📌 Key Sections
 
-- 🏠 Home with dynamic typing effect
-- 👨‍💼 About with professional info
-- 🎯 Skills with progress bars
-- 📚 Qualification timeline
-- 💼 Services offered
-- 🖼️ Portfolio showcase
-- 📧 Contact form
+- **🏠 Home:** Introduction with a dynamic multiplatform typing feature and direct contact layout.
+- **👨‍💼 About Me:** Code-styled structural profile block detailing technologies, location, and key metrics (Experience, Projects, Companies).
+- **🎯 Skills:** Technical accordion bars tracking Frontend proficiency (HTML, CSS, JavaScript, React) and other environment tools (Git, VS Code).
+- **📚 Qualification Timeline:** Journey path dividing formal higher education (UTNG) and professional work history.
+- **💼 Services:** Interactive modal pop-ups showcasing development capabilities.
+- **🖼️ Portfolio Showcase:** Touch-controlled display showing recent live platforms (MarketingHub, Miga-Co, Core Bancario).
+- **📧 Contact Me:** Ready-to-use input form bound with functional geographic and media links.
 
 ## 💻 Live Demo
 
-You can view the live demo of the Portfolio by clicking the link below:
+You can view the live deployment of this portfolio by clicking the link below:
 
-<a href="https://daneshcode.github.io/Portfolio-Website/" target="_blank">🔗 Open the Portfolio</a>
+<a href="https://karenpadron.github.io/cv-website/" target="_blank">🔗 Open Karen's Portfolio</a>
 
-## 📞 Contact
+## 📞 Contact & Networks
 
-Feel free to reach out if you have any questions or feedback!
+Feel free to connect or reach out for inquiries:
 
-- 📧 Email: [DaneshCode.Dev@gmail.com](mailto:DaneshCode.Dev@gmail.com)
+- **📧 Email:** [karenpadron0608@gmail.com](mailto:karenpadron0608@gmail.com)
+- **💼 LinkedIn:** [linkedin.com/in/KarenPadron](https://www.linkedin.com/in/KarenPadron)
+- **🐙 GitHub:** [github.com/KarenPadron](https://github.com/KarenPadron)
 
 ---
+Made with ❤️ by Karen Padrón. All rights reserved.
 
-⭐ Don't forget to star this repo if you like it!
+![alt text](image.png)
