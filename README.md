@@ -1,8 +1,8 @@
-# 🌟 Personal Portfolio Website
+#  Personal Portfolio Website
 
 A clean, beautiful, and responsive portfolio website built with HTML, CSS, and JavaScript, tailored as a professional curriculum showcase.
 
-## 🚀 Features
+## Features
 
 - 💡 **Light/Dark Mode Toggle:** Easy transition between visual themes.
 - 📱 **Fully Responsive:** Optimized for desktop, tablet, and mobile displays using custom container grids.
@@ -61,15 +61,19 @@ Por favor, asegúrese de adjuntar las capturas correspondientes debajo de cada a
 ---
 
 ### 2. Captura del sitio original
-*Inserte aquí la captura de pantalla de la interfaz web tal y como lucía la plantilla inicial antes de realizar las modificaciones.*
+<img width="1850" height="954" alt="image" src="https://github.com/user-attachments/assets/04d981e2-1433-4f23-a2d0-3239fe750c67" />
 
-![Sitio Original](ruta_a_tu_imagen/evidencia_2.png)
 
 ---
 
 ### 3. Captura del sitio personalizado
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+<img width="1867" height="888" alt="image" src="https://github.com/user-attachments/assets/d70bc73d-4a16-441b-be99-65a049fdb883" />
+<img width="1845" height="955" alt="image" src="https://github.com/user-attachments/assets/ea214019-ac93-46e8-b876-b87e825cf8a3" />
+<img width="1808" height="955" alt="image" src="https://github.com/user-attachments/assets/7da66514-d6bc-462b-a3b9-4da345d686e6" />
+
+
 ---
 
 ### 4. Captura del archivo README_ESTUDIANTE.md
